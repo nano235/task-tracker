@@ -108,6 +108,20 @@ body {
   height: 20px;
 }
 
+.not-found-container {
+  display: flex;
+  justify-content: center;
+}
+
+.not-found {
+  position: relative;
+}
+
+.go-home {
+  position: absolute;
+  bottom: 10px;
+}
+
 footer {
   margin-top: 30px;
   text-align: center;
